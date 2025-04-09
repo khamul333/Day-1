@@ -1,0 +1,19 @@
+// warrior_journey.js
+
+// Identity declaration
+const name = "Leo";
+const location = "Texas";
+const goal = "to be the perfect balance of Athlete, Scholar, and Lover";
+
+// Structured logging
+console.log(`My name is ${name}, I live in ${location}, and I have a goal ${goal}.`);
+
+// Optional: declare your stats like a character sheet
+const warriorStats = {
+  strength: 8,
+  focus: 9,
+  compassion: 7,
+  curiosity: 10
+};
+
+console.log("Warrior Stats:", warriorStats);
